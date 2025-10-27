@@ -1,8 +1,13 @@
-\- Used `git stash` 1 time for temporary work storage.
-
-\- Used `git cherry-pick` 1 time to copy a specific commit from feature branch to main.
-
-- Used `git rebase` 1 time to align feature branch with main.
-- Used `git reset` 3 times (soft, mixed, hard) for practicing commit management.
-- Used `git revert` 1 time to undo a bad commit safely.
-- Used `git tag` 2 times to mark project releases (v1.0.0 and v1.1.0).
+- 8cb5004: docs: Add Git journey documentation (Jnaneswari, 75 seconds ago)
+- 263ac45: docs: Documented rebase, reset, revert, and tagging operations (Jnaneswari, 3 minutes ago)
+- eeaed56: docs: Update README (Jnaneswari, 9 minutes ago)
+- 6d5bae0: docs: Documented stash and cherry-pick usage (Jnaneswari, 11 minutes ago)
+- 3a2912f: Resolved merge conflicts between main and conflict-simulator (Jnaneswari, 25 minutes ago)
+- 6e77503: Resolved merge conflicts in README.md and completed first merge (main + dev) (Jnaneswari, 31 minutes ago)
+- 253f9fd: Resolved merge conflicts in docs/architecture.md and merged architecture documentation (Jnaneswari, 33 minutes ago)
+- 8debe2c: Merge branch 'dev' (Jnaneswari, 52 minutes ago)
+- d3dd9b2: updating conflict-simulator (Hanu Gupta, 4 days ago)
+- 02011a5: updating dev (Hanu Gupta, 4 days ago)
+- 0312c6f: updating main (Hanu Gupta, 4 days ago)
+- fadfd24: Revise README for DevOps Simulator project (Hanu Gupta, 4 days ago)
+- ae630eb: Initial commit (Hanu Gupta, 4 days ago)
