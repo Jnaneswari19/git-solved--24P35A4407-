@@ -1,0 +1,22 @@
+* 1c06862 (HEAD -> main, origin/main) docs: Add changelog
+* 8cb5004 docs: Add Git journey documentation
+* 263ac45 docs: Documented rebase, reset, revert, and tagging operations
+| * b66ae84 (feature/another-feature) docs: Documented stash and cherry-pick usage
+| * be23419 docs: Documented git rebase usage
+| * 05730d2 (origin/feature/another-feature) feat: Add test feature
+|/  
+* eeaed56 (tag: v1.1.0, tag: v1.0.0) docs: Update README
+* 6d5bae0 docs: Documented stash and cherry-pick usage
+*   3a2912f (feature/new-feature) Resolved merge conflicts between main and conflict-simulator
+|\  
+| * d3dd9b2 (instructor/conflict-simulator, conflict-simulator) updating conflict-simulator
+* | 6e77503 Resolved merge conflicts in README.md and completed first merge (main + dev)
+* | 253f9fd Resolved merge conflicts in docs/architecture.md and merged architecture documentation
+* |   8debe2c Merge branch 'dev'
+|\ \  
+| * | 02011a5 (instructor/dev, dev) updating dev
+| |/  
+* | 0312c6f (instructor/main, instructor/HEAD) updating main
+* | fadfd24 Revise README for DevOps Simulator project
+|/  
+* ae630eb Initial commit
