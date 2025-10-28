@@ -80,3 +80,4 @@ DevOps Simulator follows an **event-driven microservices architecture** with AI/
 - **Metrics**: Prometheus + Thanos (long-term storage)
 - **Logs**: ELK Stack + AI log analysis
 >>>>>>> conflict-simulator
+"# Simulated conflict resolved" 
