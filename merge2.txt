@@ -1,2 +1,1 @@
-"Second merge verification" 
-"Second merge verification" 
+"This is for merge verification" 
