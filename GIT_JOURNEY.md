@@ -5,7 +5,8 @@
 
 - Student ID: 24P25A4407
 
-- Repository: https://github.com/jnaneswari/git-solved-24P35A4407
+- Repository: [https://github.com/Jnaneswari19/git-solved-24P35A4407](https://github.com/Jnaneswari19/git-solved-24P35A4407)
+
 
 - Date Started: 26-10-25
 
